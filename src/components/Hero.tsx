@@ -57,11 +57,11 @@ export default function Hero() {
           {/* CTA */}
           <div className="animate-fade-in-up-delay-3 flex flex-col sm:flex-row items-start gap-4">
             <a
-              href="tel:+79324207085"
+              href="tel:+79519632565"
               className="inline-flex items-center gap-3 px-8 py-4 bg-accent-600 hover:bg-accent-500 text-white font-semibold rounded-lg transition-all duration-200 shadow-xl shadow-accent-600/20 text-sm tracking-wide"
             >
               <Phone size={18} />
-              +7 932 420-70-85
+              +7 951 963-25-65
             </a>
           </div>
 

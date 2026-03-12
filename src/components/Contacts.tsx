@@ -41,7 +41,7 @@ export default function Contacts() {
 
             {/* Phone — primary */}
             <a
-              href="tel:+79324207085"
+              href="tel:+79519632565"
               className="flex items-center gap-4 p-5 rounded-xl bg-navy-900 border border-navy-800/60 hover:border-accent-600/40 transition-all duration-300 mb-4 group"
             >
               <div className="w-12 h-12 rounded-lg bg-accent-600 flex items-center justify-center shadow-lg shadow-accent-600/20">
@@ -50,7 +50,7 @@ export default function Contacts() {
               <div>
                 <div className="text-xs text-navy-400 mb-0.5 uppercase tracking-wider">Телефон</div>
                 <div className="text-lg font-semibold text-white group-hover:text-accent-400 transition-colors">
-                  +7 932 420-70-85
+                  +7 951 963-25-65
                 </div>
               </div>
             </a>
@@ -58,7 +58,7 @@ export default function Contacts() {
             {/* WhatsApp & Telegram row */}
             <div className="grid grid-cols-2 gap-4">
               <a
-                href="https://wa.me/79324207085"
+                href="https://wa.me/79519632565"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 p-4 rounded-xl bg-navy-900 border border-navy-800/60 hover:border-emerald-600/40 transition-all duration-300 group"

@@ -54,7 +54,7 @@ export default function Header() {
               </a>
             ))}
             <a
-              href="tel:+79324207085"
+              href="tel:+79519632565"
               className="ml-6 inline-flex items-center gap-2 px-5 py-2.5 text-[13px] font-semibold bg-accent-600 hover:bg-accent-500 text-white rounded-lg transition-all duration-200 tracking-wide"
             >
               <Phone size={14} />
@@ -92,12 +92,12 @@ export default function Header() {
           ))}
           <div className="pt-2 border-t border-navy-800/30">
             <a
-              href="tel:+79324207085"
+              href="tel:+79519632565"
               onClick={handleLinkClick}
               className="flex items-center gap-2 px-4 py-3 text-sm font-semibold text-accent-400"
             >
               <Phone size={16} />
-              +7 932 420-70-85
+              +7 951 963-25-65
             </a>
           </div>
         </nav>
