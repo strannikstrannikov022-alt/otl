@@ -73,7 +73,7 @@ export default function Contacts() {
               </a>
 
               <a
-                href="https://t.me/+79324207085"
+                href="https://t.me/+79519632565"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 p-4 rounded-xl bg-navy-900 border border-navy-800/60 hover:border-sky-600/40 transition-all duration-300 group"
