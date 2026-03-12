@@ -1,6 +1,6 @@
 # otl
 
-React/Vite site for GitHub Pages deployment.
+React/Vite site prepared for GitHub Pages.
 
 ## Scripts
 
@@ -8,6 +8,6 @@ React/Vite site for GitHub Pages deployment.
 - `npm run dev`
 - `npm run build`
 
-## Deploy
+## GitHub Pages
 
-The repository includes a GitHub Actions workflow that builds the site and deploys it to GitHub Pages.
+The published site is served from the `docs/` folder on the `main` branch.
